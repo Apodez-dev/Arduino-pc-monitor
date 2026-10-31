@@ -1,0 +1,2 @@
+echo LibreHardwareMonitor/ > .gitignore
+echo __pycache__/ >> .gitignore
