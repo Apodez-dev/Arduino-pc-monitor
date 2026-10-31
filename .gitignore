@@ -1,2 +1,23 @@
-echo LibreHardwareMonitor/ > .gitignore
-echo __pycache__/ >> .gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# PyInstaller Build Output
+build/
+dist/
+
+# Local configuration & IDEs
+config.json
+.vscode/
+.idea/
+*.log
