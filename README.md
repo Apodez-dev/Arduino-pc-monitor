@@ -47,6 +47,9 @@
 2. Скачанный и запущенный **[LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)**.
    * *Важно:* LibreHardwareMonitor должен быть запущен **от имени администратора**.
    * В настройках программы включите веб-сервер: `Options` -> `Remote Server` -> `Run` (порт по умолчанию `8085`).
+3. Запустить последнюю версию моста  **[Releases]([https://github.com/LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/Apodez-dev/Arduino-pc-monitor/releases))**.
+   * *Важно:* LibreHardwareMonitor должен быть запущен **от имени администратора**.
+   * В настройках программы включите веб-сервер: `Options` -> `Remote Server` -> `Run` (порт по умолчанию `8085`).
 
 ### 3. Зависимости Python
 Установите все необходимые библиотеки для мониторинга железа, работы с NVIDIA и иконкой в трее одной командой:
