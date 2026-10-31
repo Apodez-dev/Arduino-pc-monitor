@@ -36,7 +36,7 @@
 
 ---
 
-## 📸 Скриншоты интерфейса
+## 📸 Скриншот интерфейса
 
 ### Главное меню
 <img width="336" height="405" alt="изображение" src="https://github.com/user-attachments/assets/e90a4d3c-90ce-4075-8625-271943f8f4e7" />
