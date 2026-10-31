@@ -64,6 +64,13 @@ pip install psutil pyserial pynvml pystray pillow
 
 ---
 
+## ☕ Поддержать разработку
+
+Если вам нравится этот проект и вы хотите поддержать его дальнейшее развитие:
+- **Donatty:** [donatty.com/apodez](https://donatty.com/apodez)
+
+---
+
 ## 👨‍💻 Автор
 
 - **GitHub:** [@Apodez-dev](https://github.com/Apodez-dev)

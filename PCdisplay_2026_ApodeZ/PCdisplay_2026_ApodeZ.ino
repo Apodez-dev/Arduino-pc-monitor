@@ -279,9 +279,10 @@ void show_logo_apodez() {
   lcd.print("ApodeZ");
 
   lcd.setCursor(1, 2);
-  lcd.print("Press f to respect");
+  lcd.print("Press F to respect");
 
   lcd.setCursor(5, 3);
+  lcd.write(byte(0));
   lcd.print("AlexGyver!");
   lcd.write(byte(0)); 
 }
